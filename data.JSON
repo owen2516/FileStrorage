@@ -1,0 +1,15 @@
+{
+    "firstname":"Owen",
+    "gender":true,
+    "height":170,
+    "emali":"owen4565@gmail.com",
+    "city": {
+        "通訊地址":"台北",
+        "戶籍地址":"桃園"
+    },
+    "phone": {
+        "市話":"02-2277-7776",
+        "行動電話":"0915-789451"
+    },
+    "cars": ["Telsa","AAASS"]
+}
