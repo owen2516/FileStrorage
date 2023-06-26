@@ -1,4 +1,4 @@
-[{
+{
     "firstname":"Owen",
     "gender":true,
     "height":170,
@@ -12,4 +12,4 @@
         "行動電話":"0915-789451"
     },
     "cars": ["Telsa","AAASS"]
-}]
+}
