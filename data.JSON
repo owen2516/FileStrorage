@@ -2,7 +2,7 @@
     "firstname":"Owen",
     "gender":true,
     "height":170,
-    "emali":"owen4565@gmail.com",
+    "email":"owen4565@gmail.com",
     "city": {
         "通訊地址":"台北",
         "戶籍地址":"桃園"
